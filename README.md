@@ -12,4 +12,4 @@ I completed a project for Panneri Store, utilizing 2022 sales data to create an 
 - The top 3 are Amazon, Flipkart, and Myntra: max contributing (~80%).
 
 ▶ Conclusion:
-- To improve Panneri Indian Store sales, I would recommend targeting women customers of age group (30-49 yrs : adult) living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offers, and discount coupons available on Amazon, Flipkart, and Myntra.
+- To improve Panneri Store sales, I would recommend targeting women customers of age group (30-49 yrs : adult) living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offers, and discount coupons available on Amazon, Flipkart, and Myntra.
