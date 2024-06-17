@@ -1,0 +1,1 @@
+I completed a project for Panneri Store, utilizing 2022 sales data to create an interactive dashboard. This tool visualizes key metrics like revenue, customer demographics, and inventory levels, enabling informed decision-making and enhancing operational efficiency. The dashboard's interactivity facilitates detailed analysis and trend identification.
